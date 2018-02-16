@@ -18,9 +18,9 @@ node quickstart.js
 The application is configured to publish a random temperature value for device with MacAddress : ABCD12341234
 Below messages are published in order to keep you updated with what is happening 
 
-> Connected to quickstart organization...
-> Connected with macAddress:ABCD12341234
-> Follow https://quickstart.internetofthings.ibmcloud.com and add ABCD12341234 to see events`
+> Connected to quickstart organization... text eol=crlf
+> Connected with macAddress:ABCD12341234 text eol=crlf
+> Follow https://quickstart.internetofthings.ibmcloud.com and add ABCD12341234 to see events text eol=crlf
 
 
 After the above, you'll see events published under JSON format:
